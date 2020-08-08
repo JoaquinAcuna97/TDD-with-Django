@@ -1,0 +1,66 @@
+1596921626198	geckodriver	INFO	Listening on 127.0.0.1:54133
+1596921686156	geckodriver	INFO	Listening on 127.0.0.1:54166
+1596921940784	geckodriver	INFO	Listening on 127.0.0.1:54259
+1596922075984	geckodriver	INFO	Listening on 127.0.0.1:55387
+1596922079059	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofilehr8UJz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596922082957	Marionette	INFO	Listening on port 55396
+1596922083399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927143167	geckodriver	INFO	Listening on 127.0.0.1:56632
+1596927146217	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofileLR3TOx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927151018	Marionette	INFO	Listening on port 56640
+1596927151154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927173223	geckodriver	INFO	Listening on 127.0.0.1:56683
+1596927176269	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofile4S2qhi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927180929	Marionette	INFO	Listening on port 56691
+1596927181194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927181535	Marionette	INFO	Stopped listening on port 56691
+1596927504279	geckodriver	INFO	Listening on 127.0.0.1:56767
+1596927507334	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofilezqwCkF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927516462	Marionette	INFO	Listening on port 56776
+1596927516552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927532978	geckodriver	INFO	Listening on 127.0.0.1:56823
+1596927535959	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofile1MgCsx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927541923	Marionette	INFO	Listening on port 56832
+1596927542052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927801581	geckodriver	INFO	Listening on 127.0.0.1:56919
+1596927804640	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofilepFxg8j"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927810386	Marionette	INFO	Listening on port 56929
+1596927810666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927830085	geckodriver	INFO	Listening on 127.0.0.1:56966
+1596927833144	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofilendo6Da"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927838064	Marionette	INFO	Listening on port 56974
+1596927838092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927912719	geckodriver	INFO	Listening on 127.0.0.1:57020
+1596927915763	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofilepR2Xe8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927922427	Marionette	INFO	Listening on port 57028
+1596927922485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927934860	geckodriver	INFO	Listening on 127.0.0.1:57067
+1596927937906	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofileSiVgfC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927942040	Marionette	INFO	Listening on port 57076
+1596927942231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927942562	Marionette	INFO	Stopped listening on port 57076
+1596927958433	geckodriver	INFO	Listening on 127.0.0.1:57111
+1596927961481	mozrunner::runner	INFO	Running command: "C:\\Users\\Juaco\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Juaco\\AppData\\Local\\Temp\\rust_mozprofile7FbJgJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596927967290	Marionette	INFO	Listening on port 57119
+1596927967518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596927967947	Marionette	INFO	Stopped listening on port 57119
